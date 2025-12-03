@@ -12,4 +12,19 @@ public class Client {
         this.name = name;
         this.email = email;
     }
+    public int getId() {
+        return id;
+    }
+
+    public String getFirstName() {
+        return FirstName;
+    }
+
+    public String getName() {
+        return name;
+    }
+    
+    public String getEmail() {
+        return email;
+    }
 }
