@@ -31,7 +31,7 @@ public class Car extends Vehicule {
     @Override
     public String toString() {
         return "Car [id=" + getId() + ", length=" + getLength() + 
-               ", numberOfSeats=" + numberOfSeats + 
-               ", numberOfPassengers=" + numberOfPassengers + "]";
+            ", numberOfSeats=" + numberOfSeats + 
+            ", numberOfPassengers=" + numberOfPassengers + "]";
     }
 }

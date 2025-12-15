@@ -31,6 +31,6 @@ public class Wagon extends Vehicule {
     @Override
     public String toString() {
         return "Wagon [id=" + getId() + ", length=" + getLength() + 
-               ", maximumLoad=" + maximumLoad + ", realLoad=" + realLoad + "]";
+            ", maximumLoad=" + maximumLoad + ", realLoad=" + realLoad + "]";
     }
 }
